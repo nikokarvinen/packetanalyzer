@@ -17,7 +17,7 @@
 
 ## Overview
 
-This script is developed to serve as a comprehensive solution for network security through meticulous packet analysis. It aims to assist network administrators and security professionals in monitoring, analyzing, and securing network traffic by providing real-time insights into network activities and alerting them to potential threats.
+This script was crafted as part of a personal learning journey into network analysis. While it's designed to provide a clearer picture of network activities by examining data packets, its primary intent is educational. Nonetheless, it can be a valuable asset for those wanting insights into their network traffic and any potential anomalies.
 
 ### Use Cases
 
